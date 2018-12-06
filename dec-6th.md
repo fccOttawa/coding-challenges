@@ -14,7 +14,7 @@ Output:"gvO Ujnft!"
 ```
 
 ### 2. Time Convert
-Design a function that takes a number and returns the number of hours and minutes it converts to (ie. if num = 63 then the output should be 1:3). Separate the number of hours and minutes with a colon. 
+Design a function that takes a number of minutes and returns the number of hours and minutes it converts to (ie. if num = 63 then the output should be 1:3). Separate the number of hours and minutes with a colon. 
 
 #### Sample Test Cases
 ```
