@@ -9,6 +9,7 @@ Build a function called Animal that accepts 1 parameter: an object with three pr
 The function should return a string using the opject values, e.g: 
 
 ```"This white dog has 4 legs."```
+
 Source: https://www.codewars.com/kata/training-js-number-5-basic-data-types-object 
 
 ## 2. Wherefore art thou? 
